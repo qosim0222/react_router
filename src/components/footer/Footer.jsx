@@ -40,7 +40,7 @@ const Footer = () => {
             </div>
           </div>
         </div>
-        <div className="border-t border-[#F4F6FC33] mt-12 pt-6">
+        <div className="">
         
         </div>
       </div>
